@@ -196,6 +196,4 @@ docker run -v mydata:/app/data ubuntu
 --name → Container name
 --rm → Auto remove
 
-======================================
-END OF FILE
-===========
+
